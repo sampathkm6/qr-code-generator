@@ -1,0 +1,12 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
